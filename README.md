@@ -1,3 +1,3 @@
 # hello-world
 
-GitHub notes. Cheanges in ReadMe branch.
+GitHub notes. Changes in ReadMe branch.
